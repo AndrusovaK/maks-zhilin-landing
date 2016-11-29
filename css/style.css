@@ -147,7 +147,7 @@ a {
 }
 
 .slider__image {
-	max-height: 250px;
+	max-height: 225px;
 }
 
 .slider__image img{
@@ -164,9 +164,9 @@ a {
 	border-radius: 50%;
 }
 
-.slider-nav {
+/*.slider-nav {
 	display: none;
-}
+}*/
 
 .prev, .next {
 	position: absolute;
